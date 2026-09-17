@@ -41,7 +41,7 @@ pwd
 ### Result
 
 ```text
-/home/user
+/home/ilya
 ```
 
 ### What I learned
@@ -406,7 +406,7 @@ exit
 
 # Final Practice
 
-## Mini Exercise — File Management
+## Mini Exercise - File Management
 
 I combined several commands from this section:
 
