@@ -2,8 +2,6 @@
 
 Hands-on notes and exercises from the Linux Journey / LabEx Text-Fu section.
 
-> Replace example commands and results with the actual commands and outputs from your own practice environment where appropriate.
-
 ---
 
 ## 1. stdout - Standard Output
