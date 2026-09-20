@@ -1,4 +1,4 @@
-# Linux Journey — Command Line
+# Linux Journey - Command Line
 
 Completed: September 2026
 
@@ -11,24 +11,24 @@ I practiced navigating the filesystem, creating and managing files and directori
 ## Lessons completed
 
 * [x] The Shell
-* [x] `pwd` — Print Working Directory
-* [x] `cd` — Change Directory
-* [x] `ls` — List Directories
-* [x] `touch` — Create Files / Manage Timestamps
-* [x] `file` — Identify File Types
-* [x] `cat` — Display and Redirect File Content
-* [x] `less` — Read and Search Text
-* [x] `history` — Bash Command History
-* [x] `cp` — Copy Files and Directories
-* [x] `mv` — Move and Rename Files
-* [x] `mkdir` — Create Directories
-* [x] `rm` — Remove Files and Directories
-* [x] `find` — Search for Files
-* [x] `help` — Bash Built-in Help
-* [x] `man` — Manual Pages
-* [x] `whatis` — Short Command Descriptions
-* [x] `alias` — Bash Command Aliases
-* [x] `exit` — Exit the Shell
+* [x] `pwd` - Print Working Directory
+* [x] `cd` - Change Directory
+* [x] `ls` - List Directories
+* [x] `touch` - Create Files / Manage Timestamps
+* [x] `file` - Identify File Types
+* [x] `cat` - Display and Redirect File Content
+* [x] `less` - Read and Search Text
+* [x] `history` - Bash Command History
+* [x] `cp` - Copy Files and Directories
+* [x] `mv` - Move and Rename Files
+* [x] `mkdir` - Create Directories
+* [x] `rm` - Remove Files and Directories
+* [x] `find` - Search for Files
+* [x] `help` - Bash Built-in Help
+* [x] `man` - Manual Pages
+* [x] `whatis` - Short Command Descriptions
+* [x] `alias` - Bash Command Aliases
+* [x] `exit` - Exit the Shell
 
 ## Skills practiced
 
