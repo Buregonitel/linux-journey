@@ -2,8 +2,6 @@
 
 Hands-on notes and exercises from the User Management section.
 
-> Use a test user or disposable Linux environment for account-management exercises. Never copy real password hashes or sensitive account data into a public repository.
-
 ---
 
 ## 1. Users and Groups
