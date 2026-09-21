@@ -107,5 +107,11 @@ The main lesson from this section was that Linux access control starts with iden
 
 Users and groups are represented by IDs, processes carry credentials, and the kernel uses those identities when making access decisions.
 
-I also learned how local account information is o
+I also learned how local account information is organized across `/etc/passwd`, `/etc/shadow`, and `/etc/group`, and how administrative tools can be used to manage local accounts.
 
+## Practice
+
+Hands-on exercises for this section are documented in:
+
+* [`commands.md`](./commands.md) — command reference
+* [`practice.md`](./practice.md) — practical exercises and notes
