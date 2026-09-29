@@ -6,13 +6,13 @@ The lessons focus on the `/dev` filesystem, device types and naming, the kernel'
 
 ## Lessons Completed
 
-1. **`/dev` Directory** — device nodes and pseudo-devices exposed through `/dev`.
-2. **Device Types** — character devices, block devices, pipes, sockets, and regular filesystem objects.
-3. **Device Names** — common naming conventions for disks, partitions, logical devices, and persistent Linux links.
-4. **sysfs** — the live kernel device model exposed through `/sys`.
-5. **udev** — handling device events, permissions, naming policies, and persistent links.
-6. **`lsusb`, `lspci`, `lsscsi`** — inspecting USB, PCI, SCSI-layer devices, and associated drivers.
-7. **`dd`** — copying raw block streams while controlling source, destination, and transfer size safely.
+1. **`/dev` Directory** - device nodes and pseudo-devices exposed through `/dev`.
+2. **Device Types** - character devices, block devices, pipes, sockets, and regular filesystem objects.
+3. **Device Names** - common naming conventions for disks, partitions, logical devices, and persistent Linux links.
+4. **sysfs** - the live kernel device model exposed through `/sys`.
+5. **udev** - handling device events, permissions, naming policies, and persistent links.
+6. **`lsusb`, `lspci`, `lsscsi`** - inspecting USB, PCI, SCSI-layer devices, and associated drivers.
+7. **`dd`** - copying raw block streams while controlling source, destination, and transfer size safely.
 
 ## Skills Practiced
 
