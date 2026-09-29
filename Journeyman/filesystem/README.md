@@ -445,16 +445,5 @@ This is especially important for:
 
 ---
 
-## Portfolio Structure
-
-```text
-filesystem/
-├── README.md
-├── commands.md
-└── practice.md
-```
-
-* `README.md` — concepts and section overview
-* `commands.md` — command reference and examples
-* `practice.md` — hands-on exercises and learning notes
+#
 
