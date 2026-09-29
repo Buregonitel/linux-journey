@@ -2,8 +2,6 @@
 
 Hands-on practice for understanding the Linux kernel, system calls, kernel artifacts, and loadable modules.
 
-> **Note:** The examples below are practice templates. Replace the example observations with your own results when documenting actual lab work.
-
 ---
 
 ## 1. Kernel Overview
