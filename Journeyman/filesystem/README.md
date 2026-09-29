@@ -445,5 +445,9 @@ This is especially important for:
 
 ---
 
-#
+## Documentation
+
+* [Commands Cheat Sheet](commands.md)
+* [Practice Journal](practice.md)
+
 
