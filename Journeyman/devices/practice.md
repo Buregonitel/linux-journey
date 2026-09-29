@@ -2,8 +2,6 @@
 
 Hands-on practice for understanding Linux device nodes, hardware discovery, `sysfs`, `udev`, and safe low-level copying.
 
-> **Note:** The examples below are practice templates. Replace the placeholder results with your own output when documenting your actual lab work.
-
 ---
 
 ## 1. `/dev` Directory
